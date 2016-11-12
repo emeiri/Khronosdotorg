@@ -72,6 +72,7 @@ Khronos has placed an unprecedented amount of materials into open source so you 
     - [Part 6](https://github.com/GameTechDev/IntroductionToVulkan/blob/master/Project/Tutorial06) - Descriptor Sets
     - [Part 7](https://github.com/GameTechDev/IntroductionToVulkan/blob/master/Project/Tutorial07) - Uniform Buffers
 * [Vulkan Tutorial](http://av.dfki.de/~jhenriques/development.html) - Advanced tutorial to get to a complete but minimal C program running a graphical pipeline using Vulkan on windows.
+* [Introduction to Vulkan](http://ogldev.org/www/tutorial50/tutorial50.html) - An introduction to Vulkan by OGLDEV - a site which focuses on OpenGL.
 
 ## Demos & Samples
 
